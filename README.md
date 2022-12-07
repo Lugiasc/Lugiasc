@@ -1,5 +1,5 @@
 Welcome on my profile. I'm just an EPFL student currently in MSc. Data Science who's working on some project from time to time!
-[![Lugiasc's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lugiasc)](https://github.com/anuraghazra/github-readme-stats)
+[![Lugiasc's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lugiasc&show_icons=True)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Lugiasc/Lugiasc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
