@@ -1,4 +1,4 @@
-Welcome on my profile. I'm just an EPFL student currently in MSc. Data Science who's working on some project from time to time!
+Welcome on my profile. I'm just an ex-EPFL student that graduated with a MSc. Data Science who's working on some project from time to time!
 [![Lugiasc's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lugiasc&show_icons=True&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
