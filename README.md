@@ -1,17 +1,15 @@
-Welcome on my profile. I'm just an ex-EPFL student that graduated with a MSc. Data Science who's working on some project from time to time!
+![Header](/github-header-banner.png)
+
+## About me
+
+I'm a data scientist/analyst currently looking for an opportunity. 
+
+I graduated with a MSc. Data Science at EPFL.
+
+## Languages and Tools
+
+![python-pandas-tensorflow-pytorch-scikitlearn-Jupyter](https://www.readmecodegen.com/api/social-icon?name=python%2Cpandas%2Ctensorflow%2Cpytorch%2Cscikitlearn%2Cmysql%2CJupyter%2Chtml5%2Ccss3&size=32&link=)
+
+## Some stats...
 
 ![Metrics](/github-metrics.svg)
-<!--
-**Lugiasc/Lugiasc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
