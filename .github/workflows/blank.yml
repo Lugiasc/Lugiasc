@@ -18,4 +18,4 @@ jobs:
         with:
           config_timezone: Europe/Paris
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header, activity, community, repositories, metadata
+          base: header
